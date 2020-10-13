@@ -29,4 +29,3 @@ Instead of: From the top navigation, click "Configure".
 ### Still needs
 1. Some personality! I think I made this a little too dry.
 2. I made no changes to the Sendgrid and Amazon SES setup docs.
-3. I'm not sure the relative links work.
